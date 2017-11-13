@@ -3117,6 +3117,7 @@
 			transform: translateY(0);
 			opacity: 1;
 			margin: 0 0 1.3em 0;
+			text-align: center;
 		}
 
 			#banner .logo .icon {
@@ -3153,6 +3154,7 @@
 			font-size: 2.25em;
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
+			text-align: center;
 		}
 
 		#banner p {
@@ -3174,11 +3176,12 @@
 			filter: blur(0);
 			opacity: 1;
 			font-family: Raleway, Helvetica, sans-serif;
-			font-size: 1em;
+			font-size: 1.5em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
 			line-height: 2;
 			text-transform: uppercase;
+			text-align: center;
 		}
 
 		@media screen and (max-width: 1280px) {
