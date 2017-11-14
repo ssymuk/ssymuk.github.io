@@ -3885,6 +3885,18 @@
 	}
 
 
-	.in-iframe nav {
-		visibility: hidden;
+	.in-iframe header {
+		display: none;
 	}
+	.in-iframe nav {
+		display: none;
+	}
+	.in-iframe .hd {
+		display: none;
+	}
+
+
+/*html.framed .hd {*/
+		/*display: none;*/
+		/*visibility: hidden;*/
+	/*}*/
