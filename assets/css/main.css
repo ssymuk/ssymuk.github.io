@@ -3229,6 +3229,12 @@
 					font-size: 1.5em;
 				}
 
+			#banner h3 {
+				font-size: 1.0em;
+				text-align: center;
+				font-weight: bold;
+			}
+
 				#banner p {
 					font-size: 0.8em;
 				}
@@ -3883,6 +3889,15 @@
 	.shadow{
 		text-shadow: 2px 2px 4px #000000;
 	}
+
+	/*.sub {*/
+		/*height: 1.1em;*/
+		/*font-weight: bolder;*/
+	/*}*/
+	/*.sub2 {*/
+	/*height: 0.9em;*/
+	/*font-weight: bolder;*/
+	/*}*/
 
 
 	.in-iframe header {
