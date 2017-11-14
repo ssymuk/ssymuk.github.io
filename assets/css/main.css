@@ -3868,3 +3868,18 @@
 		}
 
 	}
+
+
+	.mahima{
+		text-align: justify;
+	}
+
+	.mahima p{
+		text-align: justify;
+		font-style: italic;
+		font-size: x-large;
+	}
+
+	.shadow{
+		text-shadow: 2px 2px 4px #000000;
+	}
